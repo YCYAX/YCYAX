@@ -1,4 +1,4 @@
 - 🔭 主要使用: Python
-- 👯 Steam: [Mrs4s](https://steamcommunity.com/profiles/76561198380886068/)
+- 👯 Steam: [传送门](https://steamcommunity.com/profiles/76561198380886068/)
 
-![Mrs4s's github stats](https://github-readme-stats.vercel.app/api?username=Mrs4s&show_icons=true)
+![YCYAX's github stats](https://github-readme-stats.vercel.app/api?username=YCYAX&show_icons=true)
